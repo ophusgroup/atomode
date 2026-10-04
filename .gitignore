@@ -42,3 +42,5 @@ RELAXML_SESSION.txt
 # Local scratch + notebooks — kept locally, never committed to the clean branch.
 /scratch/
 /notebooks/
+
+.claude/launch.json
